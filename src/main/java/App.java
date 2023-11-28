@@ -21,6 +21,5 @@ public class App {
         System.out.println(catBean2.getCatMiu());
 
         System.out.println(catBean == catBean2);
-
     }
 }
